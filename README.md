@@ -3,7 +3,6 @@
 <!--
 **Gyu-won/Gyu-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://www.instagram.com/j_gyud/" target="_blank"><img src="https://en.facebookbrand.com/instagram/"/></a>
 Here are some ideas to get you started:
 
 https://en.facebookbrand.com/instagram/
@@ -16,3 +15,5 @@ https://en.facebookbrand.com/instagram/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.instagram.com/j_gyud/" target="_blank"><img src="https://en.facebookbrand.com/instagram/"/></a>
