@@ -20,3 +20,13 @@ https://en.facebookbrand.com/instagram/
 <a href="https://mail.naver.com/"><img src="https://img.shields.io/badge/milestogo0905@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://mail.naver.com/"/></a>
 <a href="https://www.instagram.com/j_gyud/" target="_blank"><img src="https://img.shields.io/badge/j_gyud-E4405F?style=flat-square&logo=Instagram&logoColor=white&ink=https://www.instagram.com/j_gyud/"/></a>
 
+
+### Tech Stack 💻
+
+<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
+
+<br>
+
+<a href="https://github.com/Gyu-won"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyu-won&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/Gyu-won"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Gyu-won&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="GYUWON's github stats" /></a>
