@@ -16,8 +16,7 @@ https://en.facebookbrand.com/instagram/
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/j_gyud/" target="_blank"><img src="https://img.shields.io/badge/j_gyud-E4405F?style=flat-square&logo=Instagram&logoColor=white&ink=https://www.instagram.com/j_gyud/"/>
-</a>
-<a href="https://mail.naver.com/"><img src="https://img.shields.io/badge/doyun7433@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://mail.naver.com/"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/doyun7433@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
+<a href="https://www.instagram.com/j_gyud/" target="_blank"><img src="https://img.shields.io/badge/j_gyud-E4405F?style=flat-square&logo=Instagram&logoColor=white&ink=https://www.instagram.com/j_gyud/"/></a>
+<a href="https://mail.naver.com/"><img src="https://img.shields.io/badge/milestogo0905@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://mail.naver.com/"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/milestogo0905@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
 <a href="https://www.notion.so/shade-lift-b34"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/shade-lift-b34"/></a>
