@@ -16,4 +16,4 @@ https://en.facebookbrand.com/instagram/
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/j_gyud/" target="_blank"><img src="https://en.facebookbrand.com/instagram/"/></a>
+<a href="https://www.instagram.com/j_gyud/" target="_blank"><img src="https://img.shields.io/badge/j_gyud?style=flat-square&logo=Instagram&logoColor=white&ink="https://www.instagram.com/j_gyud/"/></a>
