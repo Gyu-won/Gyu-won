@@ -23,8 +23,6 @@ https://en.facebookbrand.com/instagram/
 
 ### Tech Stack 💻
 
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a>
 
 <br>
 
