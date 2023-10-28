@@ -25,6 +25,5 @@ https://en.facebookbrand.com/instagram/
 
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyu-won)](https://github.com/Gyu-won)
-<a href="https://github.com/Gyu-won"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyu-won&layout=compact&theme=nord&hide_border=true" /></a> 
-<!--<a href="https://github.com/Gyu-won"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Gyu-won&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="GYUWON's github stats" /></a>-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyu-won&layout=compact&theme=merko)
+
