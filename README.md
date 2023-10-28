@@ -25,5 +25,5 @@ https://en.facebookbrand.com/instagram/
 
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyu-won&layout=compact&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyu-won&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
