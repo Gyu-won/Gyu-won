@@ -12,7 +12,7 @@
 
 
 
-</br></br>
+</br>
 
  ## Problem Solving & Github 🔥
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=milestogo905)](https://solved.ac/milestogo905)
