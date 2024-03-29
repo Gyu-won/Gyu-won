@@ -2,6 +2,7 @@
 <div align=center>
 
 ## Footprint 🦶
+💻 SW 마에스트로 15기<br/>
 📖 개발서적 스터디 활동<br/>
 👴 낙상예방 9988 앱 개발 현장실습<br/>
 👫 2023 WFK ICT 인도네시아 봉사단 </br>
