@@ -30,33 +30,37 @@
     <td rowspan="2" align="center"><b>Language</td>
     <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</td>
     <td rowspan="7"></td>
-    <td rowspan="1" align="center"><b>Infra</td>
-    <td><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>AWS</td>
+    <td rowspan="3" align="center"><b>Database</b></td>
+    <td><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgreSQL</td>
   </tr>
   <tr>
-    <td><img src="https://www.svgrepo.com/show/452091/python.svg" width="16px" alt="_icon"/>&nbsp;&nbsp;<b>Python</td>
-    <td rowspan="2" align="center"><b>ORM</td>
-      <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA/Data JPA</td>
+    <td><img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width="16px" alt="_icon"/>&nbsp;&nbsp;<b>TypeScript</td>
+    <td><img src="https://www.svgrepo.com/show/354272/redis.svg" width="16px" alt="_icon"/>&nbsp;&nbsp;<b>Redis</td>  
   </tr>
   <tr>
-    <td rowspan="2" align="center"><b>Framework</td>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209075018-0a1f7f14-a910-4d16-a4e4-51929b99e1ae.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring</td>
-<!--      <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</td> -->
+    <td rowspan="2" align="center"><b>Middleware</td>
+    <td><img src="https://www.svgrepo.com/show/376350/spring.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring</td>
+    <td><img src="https://www.svgrepo.com/show/439233/mysql.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</td>
-      <td rowspan="5" align="center"><b>Collaboration</td>
+    <td><img src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Supabase</td>
+    <td rowspan="4" align="center"><b>Tool</td>
     <td><img src="https://www.svgrepo.com/show/452210/git.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Git</td>
   </tr>
   <tr>
-    <tr>
-      <td rowspan="3" align="center"><b>Database</b></td>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
-     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiLabX3HceCa3oEIGEYuW_iX7xAm9BJ32gqC840zqnQ&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Notion</td>
-    <tr>
-      <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</td>
-      <td><img src="https://www.svgrepo.com/show/452188/discord.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Discord</td>
+    <td rowspan="1" align="center"><b>Infra</b></td>
+    <td><img src="https://wallpapers.com/images/hd/a-w-s-cloud-logo-ej8ve3tdkcqo008x-2.jpg" width="15px" alt="_icon" />&nbsp;&nbsp;<b>AWS</td>
+    <td><img src="https://www.svgrepo.com/show/353935/jira.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Jira</td>
   </tr>
+  <tr>
+    <td rowspan="2" align="center"><b>DevOps</td>
+    <td><img src="https://www.svgrepo.com/show/452192/docker.svg" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Docker</td>
+    <td><img src="https://www.svgrepo.com/show/373525/confluence.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Confluence</td>
+  </tr>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Github Actions</td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiLabX3HceCa3oEIGEYuW_iX7xAm9BJ32gqC840zqnQ&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Notion</td>
+    </tr>
 </table>
 <br><br>
 
