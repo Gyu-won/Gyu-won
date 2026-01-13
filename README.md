@@ -8,8 +8,6 @@
 👫 2023 WFK ICT 인도네시아 봉사단 </br>
 👨‍💻 2023 LG Soft India Internship</br>
 📝 Data & AI Convergence 연구실 학생연구원<br/>
-🎓 경북대학교 컴퓨터학부 학사</br>
-✍️ 현대 청운 고등학교 졸업</br>
 
 
 
@@ -65,11 +63,6 @@
 <br><br>
 
 <br/>
-
-## Contact📞
-<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/milestogo0905@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" height = 25px/></a>
-<a href="https://gyuwon-tech.tistory.com/"><img src="https://img.shields.io/badge/개발 블로그-orange?style=flat&logo=Tistory&logoColor=white" height = 25px/>
-
 <!--
 ## CV(한국어)
 ## CV(English)
